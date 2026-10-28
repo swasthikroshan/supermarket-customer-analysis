@@ -75,3 +75,34 @@ B.Tech Information Technology Student | Aspiring Data Analyst
 ## Dashboard Preview
 
 ![Supermarket Sales Dashboard](Sales%20-%20dashboard.png)
+
+
+## Key Business Insights
+
+### Sales Performance
+- Total revenue generated: ₹27,655.
+- Total transactions analyzed: 100.
+- Average transaction value: ₹276.55.
+- Unique customers identified: 24.
+
+### Product Category Performance
+- Personal Care generated the highest category revenue at ₹6,370.
+- Household products generated ₹6,190.
+- Snacks generated the lowest category revenue at ₹1,705.
+
+### Customer Analysis
+- Customer C118 generated the highest revenue at ₹2,790.
+- Customer C117 ranked second at ₹2,635.
+- Customer C108 ranked third at ₹2,215.
+
+### Payment Method Analysis
+- UPI generated ₹10,565 in revenue.
+- Cash generated ₹9,785.
+- Card payments generated ₹7,305.
+
+### Business Recommendations
+1. Maintain sufficient stock of high-revenue product categories.
+2. Review pricing and promotions for the Snacks category.
+3. Study purchasing patterns of high-value customers.
+4. Maintain a smooth UPI payment experience.
+5. Test product bundles and cross-selling strategies.
