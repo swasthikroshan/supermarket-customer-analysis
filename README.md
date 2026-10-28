@@ -56,3 +56,6 @@ This project demonstrates how spreadsheet analysis, pivot tables, formulas, and 
 
 ## Author
 B.Tech Information Technology Student | Aspiring Data Analyst
+## Dashboard Preview
+
+![Supermarket Sales Dashboard](Sales%20-%20dashboard.png)
