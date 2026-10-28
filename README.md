@@ -3,6 +3,22 @@
 ## Project Overview
 This project analyzes supermarket transaction data to identify customer spending patterns, product category performance, and preferred payment methods using Google Sheets.
 
+## Dataset Description
+The dataset contains 100 supermarket transactions used to analyze sales performance and customer purchasing behavior.
+
+Key fields include:
+- Transaction ID
+- Customer ID
+- Product Category
+- Total Transaction Amount (INR)
+- Payment Method
+
+The dataset supports revenue analysis, customer spending comparisons, product category performance, and payment method evaluation.
+
+- **Dataset size:** 100 transactions
+- **Currency:** Indian Rupees (INR)
+- **Analysis tool:** Google Sheets
+
 ## Objectives
 - Calculate key business performance indicators (KPIs).
 - Identify the highest-revenue customers.
