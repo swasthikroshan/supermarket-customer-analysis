@@ -1,0 +1,101 @@
+Transaction_ID,Date,Customer_ID,Gender,Age,Product_Category,Quantity,Unit_Price_INR,Total_Amount_INR,Payment_Method,City
+T0019,2026-09-01,C105,Prefer not to say,47,Groceries,4,55,220,Card,Coimbatore
+T0027,2026-09-01,C118,Female,32,Household,2,250,500,Card,Chennai
+T0080,2026-09-01,C113,Male,49,Personal Care,3,90,270,Cash,Erode
+T0012,2026-09-02,C107,Male,70,Dairy,1,45,45,Cash,Coimbatore
+T0059,2026-09-02,C118,Female,34,Groceries,2,55,110,Card,Erode
+T0075,2026-09-03,C108,Prefer not to say,46,Household,2,180,360,Cash,Trichy
+T0043,2026-09-04,C119,Female,54,Groceries,4,25,100,Card,Trichy
+T0049,2026-09-05,C110,Prefer not to say,67,Snacks,1,10,10,Cash,Trichy
+T0076,2026-09-05,C117,Female,23,Snacks,3,30,90,UPI,Erode
+T0035,2026-09-06,C112,Male,21,Personal Care,2,160,320,UPI,Erode
+T0054,2026-09-06,C113,Prefer not to say,19,Beverages,2,35,70,Cash,Erode
+T0082,2026-09-06,C104,Female,47,Groceries,4,150,600,Cash,Erode
+T0013,2026-09-07,C122,Prefer not to say,38,Groceries,5,40,200,Cash,Erode
+T0032,2026-09-07,C107,Prefer not to say,30,Dairy,1,45,45,Cash,Trichy
+T0001,2026-09-08,C123,Female,35,Dairy,1,25,25,UPI,Chennai
+T0008,2026-09-08,C101,Male,60,Household,1,80,80,UPI,Trichy
+T0014,2026-09-08,C108,Prefer not to say,26,Dairy,2,60,120,Card,Coimbatore
+T0026,2026-09-08,C103,Female,33,Personal Care,4,220,880,Cash,Chennai
+T0069,2026-09-08,C100,Male,20,Beverages,2,35,70,Card,Chennai
+T0085,2026-09-08,C124,Female,19,Dairy,1,25,25,UPI,Trichy
+T0097,2026-09-08,C117,Prefer not to say,66,Dairy,4,60,240,Cash,Erode
+T0024,2026-09-09,C117,Prefer not to say,28,Beverages,4,120,480,Card,Erode
+T0048,2026-09-09,C116,Female,49,Beverages,3,120,360,UPI,Erode
+T0100,2026-09-09,C108,Female,37,Snacks,4,85,340,UPI,Trichy
+T0007,2026-09-10,C102,Prefer not to say,53,Household,4,50,200,Card,Coimbatore
+T0020,2026-09-10,C103,Prefer not to say,58,Household,5,80,400,Card,Trichy
+T0022,2026-09-10,C111,Female,69,Personal Care,1,60,60,UPI,Trichy
+T0047,2026-09-10,C104,Prefer not to say,35,Groceries,5,150,750,UPI,Coimbatore
+T0079,2026-09-10,C100,Male,40,Household,4,180,720,Cash,Trichy
+T0005,2026-09-11,C106,Female,66,Snacks,2,30,60,UPI,Erode
+T0041,2026-09-11,C118,Male,51,Personal Care,5,300,1500,UPI,Coimbatore
+T0066,2026-09-11,C119,Male,59,Beverages,5,75,375,Cash,Erode
+T0073,2026-09-11,C117,Male,56,Beverages,5,75,375,Card,Erode
+T0015,2026-09-12,C118,Female,43,Dairy,4,80,320,UPI,Erode
+T0095,2026-09-12,C115,Male,31,Personal Care,2,120,240,Cash,Coimbatore
+T0011,2026-09-13,C105,Male,47,Household,2,400,800,Card,Trichy
+T0025,2026-09-13,C122,Prefer not to say,37,Beverages,2,90,180,Card,Coimbatore
+T0057,2026-09-13,C121,Male,30,Beverages,1,35,35,Cash,Chennai
+T0064,2026-09-13,C113,Prefer not to say,60,Household,2,80,160,Card,Trichy
+T0098,2026-09-13,C109,Prefer not to say,32,Personal Care,1,60,60,UPI,Coimbatore
+T0002,2026-09-14,C102,Female,55,Dairy,5,110,550,UPI,Chennai
+T0030,2026-09-14,C103,Male,60,Personal Care,1,90,90,Cash,Erode
+T0063,2026-09-14,C109,Male,60,Dairy,5,45,225,Cash,Coimbatore
+T0077,2026-09-14,C102,Male,44,Dairy,2,35,70,Card,Erode
+T0091,2026-09-14,C115,Male,24,Groceries,4,220,880,Card,Erode
+T0017,2026-09-15,C112,Prefer not to say,56,Household,4,50,200,Cash,Chennai
+T0074,2026-09-15,C123,Male,48,Household,2,180,360,UPI,Coimbatore
+T0038,2026-09-16,C101,Prefer not to say,55,Dairy,1,45,45,Card,Trichy
+T0028,2026-09-17,C110,Female,22,Beverages,1,20,20,Cash,Erode
+T0060,2026-09-17,C113,Female,56,Snacks,3,85,255,Cash,Trichy
+T0092,2026-09-17,C105,Prefer not to say,64,Dairy,4,35,140,Cash,Erode
+T0096,2026-09-17,C117,Female,18,Household,3,400,1200,UPI,Trichy
+T0099,2026-09-17,C115,Male,53,Dairy,3,80,240,Cash,Coimbatore
+T0003,2026-09-18,C119,Female,19,Beverages,5,35,175,Card,Erode
+T0050,2026-09-18,C122,Female,45,Dairy,5,60,300,UPI,Chennai
+T0053,2026-09-18,C111,Male,67,Dairy,1,35,35,Card,Trichy
+T0072,2026-09-18,C114,Female,21,Beverages,5,120,600,UPI,Erode
+T0081,2026-09-18,C104,Female,57,Dairy,4,35,140,Cash,Chennai
+T0084,2026-09-18,C100,Female,65,Snacks,4,10,40,Cash,Trichy
+T0029,2026-09-19,C123,Male,54,Beverages,2,90,180,UPI,Erode
+T0037,2026-09-19,C106,Prefer not to say,21,Beverages,3,35,105,Card,Chennai
+T0051,2026-09-19,C101,Prefer not to say,41,Dairy,5,35,175,UPI,Erode
+T0086,2026-09-19,C121,Female,25,Beverages,4,35,140,Cash,Coimbatore
+T0039,2026-09-20,C105,Female,22,Groceries,1,120,120,Card,Trichy
+T0040,2026-09-20,C107,Female,55,Personal Care,5,60,300,Card,Chennai
+T0045,2026-09-20,C122,Prefer not to say,37,Beverages,5,75,375,Card,Chennai
+T0062,2026-09-20,C121,Male,39,Snacks,1,45,45,Card,Chennai
+T0010,2026-09-21,C122,Female,61,Snacks,3,20,60,Card,Trichy
+T0016,2026-09-21,C103,Female,27,Groceries,1,220,220,Card,Erode
+T0031,2026-09-21,C121,Female,59,Personal Care,1,300,300,UPI,Erode
+T0042,2026-09-21,C104,Male,60,Beverages,4,50,200,Cash,Coimbatore
+T0088,2026-09-22,C109,Male,54,Groceries,1,120,120,Cash,Trichy
+T0090,2026-09-22,C117,Male,45,Household,3,50,150,UPI,Coimbatore
+T0094,2026-09-22,C118,Male,57,Personal Care,4,90,360,Cash,Chennai
+T0070,2026-09-23,C106,Male,63,Personal Care,5,160,800,Cash,Erode
+T0087,2026-09-23,C119,Female,65,Snacks,5,20,100,UPI,Coimbatore
+T0036,2026-09-24,C113,Prefer not to say,62,Snacks,3,45,135,Card,Erode
+T0018,2026-09-25,C121,Male,52,Dairy,1,110,110,Card,Coimbatore
+T0083,2026-09-25,C110,Male,39,Snacks,4,20,80,Cash,Erode
+T0089,2026-09-25,C103,Male,62,Groceries,2,120,240,Card,Chennai
+T0006,2026-09-26,C119,Female,34,Groceries,3,55,165,Card,Erode
+T0055,2026-09-26,C108,Prefer not to say,28,Dairy,2,110,220,UPI,Erode
+T0009,2026-09-27,C114,Male,58,Groceries,3,80,240,UPI,Coimbatore
+T0023,2026-09-27,C123,Female,49,Household,1,50,50,Card,Trichy
+T0056,2026-09-27,C107,Male,30,Groceries,4,220,880,Cash,Coimbatore
+T0058,2026-09-27,C112,Prefer not to say,61,Snacks,5,30,150,Cash,Chennai
+T0065,2026-09-27,C112,Female,53,Household,3,250,750,Cash,Coimbatore
+T0068,2026-09-27,C110,Female,23,Snacks,5,60,300,Card,Coimbatore
+T0004,2026-09-28,C108,Female,69,Beverages,5,75,375,UPI,Erode
+T0033,2026-09-28,C114,Female,33,Personal Care,3,90,270,Cash,Chennai
+T0052,2026-09-28,C111,Female,68,Beverages,3,20,60,Cash,Trichy
+T0093,2026-09-28,C108,Female,38,Personal Care,5,160,800,UPI,Coimbatore
+T0044,2026-09-29,C111,Female,22,Household,2,130,260,Cash,Coimbatore
+T0046,2026-09-29,C121,Female,24,Dairy,3,80,240,Cash,Chennai
+T0067,2026-09-29,C115,Prefer not to say,68,Dairy,5,35,175,UPI,Chennai
+T0071,2026-09-29,C124,Female,67,Beverages,1,35,35,Cash,Trichy
+T0078,2026-09-29,C113,Prefer not to say,42,Personal Care,2,60,120,Card,Chennai
+T0021,2026-09-30,C117,Prefer not to say,67,Beverages,2,50,100,UPI,Coimbatore
+T0034,2026-09-30,C100,Female,23,Groceries,5,150,750,UPI,Erode
+T0061,2026-09-30,C100,Prefer not to say,51,Snacks,4,10,40,Card,Trichy
