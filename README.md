@@ -1,7 +1,9 @@
 # Supermarket Customer & Sales Analysis
 
 ## Project Overview
-This project analyzes supermarket transaction data to identify customer spending patterns, product category performance, and preferred payment methods using Google Sheets.
+This project analyzes 100 supermarket transactions using Google Sheets to uncover sales trends, customer purchasing behavior, product category performance, and payment preferences.
+
+The project includes KPI calculations, category-wise revenue analysis, customer spending comparisons, payment method analysis, data quality checks, and an interactive-style sales dashboard. The findings are translated into actionable business recommendations to support data-driven decision-making.
 
 ## Dataset Description
 The dataset contains 100 supermarket transactions used to analyze sales performance and customer purchasing behavior.
