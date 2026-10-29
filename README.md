@@ -35,6 +35,22 @@ The dataset supports revenue analysis, customer spending comparisons, product ca
 - Charts and Dashboard Visualization
 - GitHub
 
+ ## Project Files
+
+- [Original Supermarket Dataset](supermarket_sales.csv)
+- [Dataset Data Dictionary](DATA_DICTIONARY.md)
+- [Sales Dashboard Preview](Sales%20-%20dashboard.png)
+
+## Tools and Skills Demonstrated
+
+- Google Sheets
+- Data cleaning and quality checks
+- KPI calculations
+- Pivot tables and spreadsheet formulas
+- Data visualization
+- Customer and product category analysis
+- Business insights and recommendations
+
 ## Key Performance Indicators
 
 | KPI | Result |
